@@ -55,7 +55,7 @@ it.
 The server will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `cd client && yarn start`
+### `cd server && yarn start`
 
 Runs the server in the production mode.\
 And server is ready to be deployed!
