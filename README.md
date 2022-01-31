@@ -1,6 +1,7 @@
 # Getting Started with Authorization Example App
 
-This project created by courses found in internet and is just a test version
+This project created by courses found in internet to practice such skills as Typescript, ExpressJS and ReactJS and is
+just a test version
 
 ## Available Scripts
 
