@@ -21,6 +21,7 @@
 		"nodemon": "^2.0.15"
 	},
 	"scripts": {
-		"dev": "nodemon"
+		"dev": "nodemon",
+		"start": "node"
 	}
 }
