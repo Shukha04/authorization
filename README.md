@@ -1,4 +1,4 @@
-# Getting Started with Authorization Server
+# Getting Started with Authorization Example App
 
 This project created by courses found in internet and is just a test version
 
